@@ -10,5 +10,6 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução
 ![Foto do meu terminal]
-(/.<img width="601" height="570" alt="screenshot png" src="https://github.com/user-attachments/assets/3d93612f-1f89-4f73-8344-2850e212eb30" />
+
+  (/.<img width="601" height="570" alt="screenshot png" src="https://github.com/user-attachments/assets/3d93612f-1f89-4f73-8344-2850e212eb30" />
 )
