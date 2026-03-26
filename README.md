@@ -5,6 +5,7 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `dir`: Para listar arquivos.
 - `mkdir` Para criar pastas.
 - `cd..` Para voltar a ultima pasta.
+- `cls`Limpa a tela.
 - [Adicione aqui mais 3 comandos que você achou úteis]
 
 ## 📸 Evidência de Execução
